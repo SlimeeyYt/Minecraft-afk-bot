@@ -27,12 +27,16 @@ If you don't have Node.js installed, download and install it
 
 2. Install Dependencies
    Create a folder for your project and navigate to it in your terminal.
-3. Create the Bot Script
+   use the following command to install mineflayer library in the terminal:
+   npm init -y
+   npm install mineflayer
+
+4. Create the Bot Script
 Create a new JavaScript file, e.g., afkBot.js, in your project folder and use the above code i.e afkbot.js
-4. Run the Bot
+5. Run the Bot
 To run the bot, simply execute the following command in your terminal:
 node afkBot.js
-5. Customize the Bot
+6. Customize the Bot
 Server Address: Change the host in the bot configuration to match the address of your Minecraft server.
 Username: Modify the bot's username by changing the username field.
 Minecraft Version: If you're using a different Minecraft version, update the version field.
