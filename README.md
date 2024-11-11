@@ -28,8 +28,9 @@ If you don't have Node.js installed, download and install it
 2. Install Dependencies
    Create a folder for your project and navigate to it in your terminal.
    use the following command to install mineflayer library in the terminal:
-   npm init -y
-   npm install mineflayer
+   
+npm init -y
+npm install mineflayer
 
 4. Create the Bot Script
 Create a new JavaScript file, e.g., afkBot.js, in your project folder and use the above code i.e afkbot.js
