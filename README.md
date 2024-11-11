@@ -30,6 +30,7 @@ If you don't have Node.js installed, download and install it
    use the following command to install mineflayer library in the terminal:
    
 npm init -y
+
 npm install mineflayer
 
 4. Create the Bot Script
