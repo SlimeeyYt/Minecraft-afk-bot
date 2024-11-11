@@ -42,7 +42,7 @@ Once the bot is running:
 The bot will automatically stay active and prevent AFK kicks by jumping every 60 seconds.
 If another player sends the bot a message with the phrase "mine diamonds", the bot will respond by chatting a confirmation message. (You can extend the bot's functionality to actually mine diamonds or perform other tasks.)
 
-####Credits
+#Credits
 Mineflayer: The bot uses the Mineflayer library to interact with Minecraft.
 
 
