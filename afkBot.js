@@ -2,9 +2,9 @@ const mineflayer = require('mineflayer');
 
 // Configuration for the bot
 const bot = mineflayer.createBot({
-  host: 'pasteyouriphere', // replace with your server's address
-  port: 25565, // default Minecraft port
-  username: 'yourusername', // replace with your bot's username
+  host: 'cracked-attack.aternos.me', // replace with your server's address
+  port: 39534, // default Minecraft port
+  username: 'Amar_Schlecken', // replace with your bot's username
   password: 'yourpassword', // optional, only if required
   version: '1.20.1', // replace with the server's version
 });
